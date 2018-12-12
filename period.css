@@ -1,0 +1,29 @@
+body, html {
+  max-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#early {
+  background-color: #C7E9F1;
+}
+
+#late {
+  background-color: #CCE8DB;
+}
+
+#middle {
+  background-color: #F8E9AB;
+}
+
+#photo1 {
+  height: 80vh;
+  margin: auto;
+}
+
+#photo2 {
+  height: 100vh;
+  margin: auto;
+}
